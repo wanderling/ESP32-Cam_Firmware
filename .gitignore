@@ -1,1 +1,9 @@
 .pio
+
+# Private configuration
+include/secrets.h
+src/secrets.h
+secrets.h
+include/main.cpp.working
+src/main.cpp.working
+main.cpp.working
